@@ -253,7 +253,7 @@ Key measures included Revenue, Profit, Profit Margin, Average Order Value (AOV),
 * Operational Analytics
 
 ## Project Structure
-
+```
 ecommerce_project/
 │
 ├── ecommerce_project_dataset/
@@ -281,7 +281,7 @@ ecommerce_project/
 │   └── Ecommerce_Dashboard.pbix
 │
 ├── README.md
-
+```
 
 ## Dashboard Screenshots
 
