@@ -306,7 +306,7 @@ ecommerce_project/
 
 ![Delivery](images/Delivery%20Analysis%20Page.png)
 
-### Product Drill-through page
+### Product Drill-through Page
 
 ![Product Drillthrough](images/Product%20Drillthrough%20Page.png)
 
