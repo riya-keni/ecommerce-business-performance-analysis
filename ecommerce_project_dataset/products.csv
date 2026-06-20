@@ -1,0 +1,146 @@
+product_id,product_name,category,cost_price,price
+1,boAt BassPods Deep Blue Neo Black,Electronics Accessories,1349.25,1799
+2,boAt BassPods Deep Blue Lite Blue,Electronics Accessories,755.37,1199
+3,Noise Air Buds Mini Black Neo Black,Electronics Accessories,1359.32,1999
+4,Noise Air Buds Mini Black Prime Black,Electronics Accessories,2375.34,3599
+5,Realme Neckband Neo Silver Plus Black,Electronics Accessories,846.23,1099
+6,Realme Neckband Neo Silver Max Red,Electronics Accessories,835.24,1099
+7,Portronics Fast Charger 20W Prime Blue,Electronics Accessories,2959.2,3699
+8,Portronics Fast Charger 20W Neo Red,Electronics Accessories,1407.36,2199
+9,Mi Power Bank 10000mAh Pro Red,Electronics Accessories,692.3,989
+10,Mi Power Bank 10000mAh Ultra Black,Electronics Accessories,1196.37,1899
+11,Logitech Wireless Mouse Compact Max Grey,Electronics Accessories,652.74,989
+12,Logitech Wireless Mouse Compact Lite Blue,Electronics Accessories,712.08,989
+13,HP USB Keyboard Slim Ultra Silver,Electronics Accessories,944.37,1499
+14,HP USB Keyboard Slim Pro Black,Electronics Accessories,256.74,389
+15,Samsung Type C Cable 1m Lite Red,Electronics Accessories,329.25,439
+16,Samsung Type C Cable 1m Plus Grey,Electronics Accessories,678.17,929
+17,Ambrane Bluetooth Speaker Mini Plus White,Electronics Accessories,454.74,689
+18,Ambrane Bluetooth Speaker Mini Lite Green,Electronics Accessories,1183.26,1599
+19,Zebronics Gaming Mouse RGB Ultra Silver,Electronics Accessories,576.42,739
+20,Zebronics Gaming Mouse RGB Neo Black,Electronics Accessories,327.98,529
+21,Mamaearth Onion Hair Oil Max Green,Personal Care,479.52,999
+22,Mamaearth Onion Hair Oil Plus Green,Personal Care,157.05,349
+23,Minimalist Vitamin C Serum Plus White,Personal Care,158.73,429
+24,Minimalist Vitamin C Serum Neo Green,Personal Care,52.47,159
+25,Nivea Body Lotion Cocoa Lite Silver,Personal Care,142.29,279
+26,Nivea Body Lotion Cocoa Lite Grey,Personal Care,162.43,439
+27,Cetaphil Gentle Cleanser Neo Black,Personal Care,60.48,189
+28,Cetaphil Gentle Cleanser Max Red,Personal Care,166.08,519
+29,Maybelline Nude Matte Lipstick Max White,Personal Care,131.81,269
+30,Maybelline Nude Matte Lipstick Neo Grey,Personal Care,145.77,339
+31,Lakme Sun Expert SPF50 Neo Silver,Personal Care,129.12,269
+32,Lakme Sun Expert SPF50 Ultra Black,Personal Care,597.54,1299
+33,WOW Aloe Vera Gel Plus Green,Personal Care,167.58,399
+34,WOW Aloe Vera Gel Lite Black,Personal Care,101.49,199
+35,Himalaya Neem Face Wash Prime Grey,Personal Care,265.62,699
+36,Himalaya Neem Face Wash Neo White,Personal Care,75.18,179
+37,Biotique Morning Nectar Moisturizer Neo White,Personal Care,225.12,469
+38,Biotique Morning Nectar Moisturizer Max Blue,Personal Care,61.16,139
+39,Dove Intense Repair Shampoo Prime Silver,Personal Care,82.81,169
+40,Dove Intense Repair Shampoo Pro Red,Personal Care,197.37,459
+41,Milton Steel Water Bottle 1L Max Blue,Household,927.42,1599
+42,Milton Steel Water Bottle 1L Plus Green,Household,450.59,1099
+43,Cello Plastic Storage Box Plus Blue,Household,445.74,969
+44,Cello Plastic Storage Box Ultra Grey,Household,403.73,859
+45,Scotch Brite Floor Mop Plus White,Household,167.58,399
+46,Scotch Brite Floor Mop Pro Red,Household,298.54,649
+47,Prestige Cleaning Gloves Prime Green,Household,330.67,769
+48,Prestige Cleaning Gloves Neo Grey,Household,939.53,1999
+49,AmazonBasics Laundry Basket Prime Green,Household,727.44,1299
+50,AmazonBasics Laundry Basket Neo Silver,Household,161.21,329
+51,Home Centre Cushion Cover Pro Blue,Household,587.51,1199
+52,Home Centre Cushion Cover Neo Grey,Household,364.05,809
+53,Philips LED Bulb 12W Prime Green,Household,314.43,669
+54,Philips LED Bulb 12W Plus Green,Household,944.37,1499
+55,Ikea Drawer Organizer Ultra Grey,Household,1119.44,1999
+56,Ikea Drawer Organizer Max Blue,Household,1044.45,1899
+57,Dettol Disinfectant Spray Max Red,Household,263.56,599
+58,Dettol Disinfectant Spray Prime Black,Household,492.42,849
+59,Pigeon Dustbin Medium Pro Black,Household,571.56,1299
+60,Pigeon Dustbin Medium Lite Green,Household,930.51,1899
+61,Levis Crew Neck Black TShirt Max Black,Fashion Basics,413.4,689
+62,Levis Crew Neck Black TShirt Prime Black,Fashion Basics,427.89,839
+63,Allen Solly Formal Shirt Blue Pro Green,Fashion Basics,224.91,459
+64,Allen Solly Formal Shirt Blue Ultra Red,Fashion Basics,223.08,429
+65,Puma Running Shorts Grey Max Grey,Fashion Basics,895.44,1599
+66,Puma Running Shorts Grey Prime Blue,Fashion Basics,1187.46,2199
+67,Jockey Cotton Vest White Ultra Red,Fashion Basics,368.59,899
+68,Jockey Cotton Vest White Max Red,Fashion Basics,647.64,1799
+69,US Polo Casual Polo Navy Neo Blue,Fashion Basics,515.57,1199
+70,US Polo Casual Polo Navy Pro Grey,Fashion Basics,259.98,619
+71,Roadster Slim Fit Jeans Pro Red,Fashion Basics,479.6,1199
+72,Roadster Slim Fit Jeans Max Blue,Fashion Basics,1474.41,2499
+73,H&M Basic Hoodie Olive Plus Red,Fashion Basics,523.83,919
+74,H&M Basic Hoodie Olive Prime Blue,Fashion Basics,1117.57,2599
+75,Max Printed Kurti Yellow Neo Grey,Fashion Basics,147.39,289
+76,Max Printed Kurti Yellow Plus Black,Fashion Basics,719.55,1599
+77,Biba Ethnic Dupatta Maroon Plus Red,Fashion Basics,579.42,999
+78,Biba Ethnic Dupatta Maroon Neo White,Fashion Basics,358.34,779
+79,Adidas Sports Socks Pack Max Grey,Fashion Basics,419.58,999
+80,Adidas Sports Socks Pack Prime Red,Fashion Basics,118.49,289
+81,Prestige Non Stick Fry Pan Ultra White,Kitchen Products,869.42,1499
+82,Prestige Non Stick Fry Pan Max Black,Kitchen Products,1172.49,2299
+83,Pigeon Electric Kettle 1.5L Pro Silver,Kitchen Products,2725.42,4699
+84,Pigeon Electric Kettle 1.5L Pro Green,Kitchen Products,857.34,1299
+85,Milton Lunch Box Deluxe Neo Grey,Kitchen Products,539.46,999
+86,Milton Lunch Box Deluxe Plus Black,Kitchen Products,649.5,1299
+87,Cello Glass Storage Jar Set Lite Green,Kitchen Products,2243.32,3299
+88,Cello Glass Storage Jar Set Max Blue,Kitchen Products,1253.43,2199
+89,Wonderchef Chopper Compact Pro Blue,Kitchen Products,563.53,1199
+90,Wonderchef Chopper Compact Lite White,Kitchen Products,1149.54,2499
+91,Borosil Mixing Bowl Set Plus White,Kitchen Products,911.52,1899
+92,Borosil Mixing Bowl Set Ultra Red,Kitchen Products,2005.41,3399
+93,Prestige Pressure Cooker 3L Neo Red,Kitchen Products,692.37,1099
+94,Prestige Pressure Cooker 3L Plus Green,Kitchen Products,769.45,1399
+95,Philips Hand Blender White Max White,Kitchen Products,643.54,1399
+96,Philips Hand Blender White Max Green,Kitchen Products,377.46,699
+97,Kent Water Bottle Copper Plus Blue,Kitchen Products,1495.32,2199
+98,Kent Water Bottle Copper Pro Silver,Kitchen Products,1196.43,2099
+99,Solimo Kitchen Towel Pack Ultra White,Kitchen Products,1205.33,1799
+100,Solimo Kitchen Towel Pack Neo Grey,Kitchen Products,974.35,1499
+101,Philips Hair Dryer Foldable Prime Grey,Small Appliances,959.4,1599
+102,Philips Hair Dryer Foldable Max Blue,Small Appliances,2386.23,3099
+103,Bajaj Room Heater Compact Plus Red,Small Appliances,2507.24,3299
+104,Bajaj Room Heater Compact Plus Grey,Small Appliances,1727.28,2399
+105,Prestige Sandwich Maker Black Plus Red,Small Appliances,2441.34,3699
+106,Prestige Sandwich Maker Black Ultra Red,Small Appliances,3974.25,5299
+107,Havells Steam Iron Neo Prime Black,Small Appliances,8819.37,13999
+108,Havells Steam Iron Neo Plus Red,Small Appliances,3219.3,4599
+109,USHA Table Fan Breeze Ultra Blue,Small Appliances,3359.3,4799
+110,USHA Table Fan Breeze Prime Blue,Small Appliances,3197.18,3899
+111,Kent Electric Chopper Mini Plus Red,Small Appliances,1119.2,1399
+112,Kent Electric Chopper Mini Neo Red,Small Appliances,2639.34,3999
+113,Morphy Richards Toaster 2 Slice Lite Silver,Small Appliances,3023.28,4199
+114,Morphy Richards Toaster 2 Slice Neo Silver,Small Appliances,9535.36,14899
+115,Orient Emergency Light LED Pro Blue,Small Appliances,2915.19,3599
+116,Orient Emergency Light LED Lite White,Small Appliances,3999.2,4999
+117,Agaro Coffee Maker Compact Ultra Black,Small Appliances,2679.33,3999
+118,Agaro Coffee Maker Compact Prime Red,Small Appliances,1424.25,1899
+119,Inalsa Vacuum Cleaner Basic Plus Red,Small Appliances,6363.26,8599
+120,Inalsa Vacuum Cleaner Basic Lite Blue,Small Appliances,4287.36,6699
+121,Portronics Fast Charger 20W Edition Lite Silver,Electronics Accessories,1693.23,2199
+122,Wonderchef Chopper Compact Edition Prime Green,Kitchen Products,569.43,999
+123,Ambrane Bluetooth Speaker Mini Edition Lite Grey,Electronics Accessories,2573.22,3299
+124,Maybelline Nude Matte Lipstick Edition Plus Black,Personal Care,66.78,159
+125,Maybelline Nude Matte Lipstick Edition Lite Red,Personal Care,179.7,599
+126,Prestige Cleaning Gloves Edition Neo Grey,Household,1871.52,3899
+127,Philips Hand Blender White Edition Lite Green,Kitchen Products,427.05,949
+128,Morphy Richards Toaster 2 Slice Edition Ultra Silver,Small Appliances,2267.19,2799
+129,Scotch Brite Floor Mop Edition Neo Silver,Household,681.38,1099
+130,Biba Ethnic Dupatta Maroon Edition Neo White,Fashion Basics,380.24,679
+131,Noise Air Buds Mini Black Edition Neo Blue,Electronics Accessories,332.52,489
+132,Pigeon Dustbin Medium Edition Prime Blue,Household,409.59,999
+133,Mi Power Bank 10000mAh Edition Lite Green,Electronics Accessories,535.2,669
+134,Logitech Wireless Mouse Compact Edition Max Grey,Electronics Accessories,1457.19,1799
+135,Logitech Wireless Mouse Compact Edition Ultra Red,Electronics Accessories,472.96,739
+136,Adidas Sports Socks Pack Edition Neo Blue,Fashion Basics,1221.53,2599
+137,Nivea Body Lotion Cocoa Edition Ultra Green,Personal Care,76.48,239
+138,Levis Crew Neck Black TShirt Edition Max Grey,Fashion Basics,415.26,769
+139,Jockey Cotton Vest White Edition Lite Blue,Fashion Basics,863.46,1599
+140,HP USB Keyboard Slim Edition Ultra Black,Electronics Accessories,389.35,599
+141,Cetaphil Gentle Cleanser Edition Ultra White,Personal Care,187.6,469
+142,Cetaphil Gentle Cleanser Edition Plus Grey,Personal Care,402.78,959
+143,AmazonBasics Laundry Basket Edition Ultra Black,Household,168.73,359
+144,Home Centre Cushion Cover Edition Neo Red,Household,681.38,1099
+145,Borosil Mixing Bowl Set Edition Plus Black,Kitchen Products,1154.45,2099
