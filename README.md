@@ -158,6 +158,13 @@ The SQL analysis was performed in PostgreSQL and covers  business questions acro
 
 ## Power BI Dashboard
 
+### Dashboard Documentation
+
+A detailed dashboard guide is available in `dashboard-guide.md`.
+
+The guide includes page-by-page explanations, navigation instructions, year filter behavior, drill through functionality, product detail navigation, and interactive dashboard features.
+
+
 The Power BI dashboard was built using imported CSV datasets and custom DAX measures.
 
 Dashboard pages include:
@@ -212,7 +219,6 @@ Key measures included Revenue, Profit, Profit Margin, Average Order Value (AOV),
 
 * Cash on Delivery (COD) recorded the highest cancellation and return rates among all payment methods.
 * Delivery performance remained relatively consistent across cities, with most locations averaging between 3–5 days.
-* Delayed deliveries were associated with significantly higher return rates compared to fast and standard deliveries.
 * Standard deliveries represented the largest share of completed deliveries.
 * Delayed deliveries were associated with significantly higher return rates than fast and standard deliveries, indicating a potential link between delivery delays and customer dissatisfaction.
 ### Profitability Analysis
@@ -253,7 +259,9 @@ Key measures included Revenue, Profit, Profit Margin, Average Order Value (AOV),
 * Operational Analytics
 
 ## Project Structure
-``` text
+
+```
+text
 ecommerce-business-performance-analysis/
 │
 ├── ecommerce_project_dataset/
@@ -266,12 +274,17 @@ ecommerce-business-performance-analysis/
 ├── images/
 │   ├── ER Diagram.png
 │   ├── PowerBiBackground.png
+│   ├── Navigation Panel.png
 │   ├── Business Overview Page.png
+│   ├── Year Slicer.png
 │   ├── Customer Analysis Page.png
-│   ├── Customer Drillthrough Page.png
+│   ├── Customer Drill through Page.png
+│   ├── Customer Drill through Guide.png
 │   ├── Order Analysis Page.png
 │   ├── Product Analysis Page.png
-│   ├── Product Drillthrough Page.png
+│   ├── Product Drill through Guide.png
+│   ├── Product Segment Slicer.png
+│   ├── Product Drill through Page.png
 │   └── Delivery Analysis Page.png
 │
 ├── sql/
@@ -280,6 +293,8 @@ ecommerce-business-performance-analysis/
 ├── power bi/
 │   └── Ecommerce_Dashboard.pbix
 │
+├── dashboard-guide.md
+│   
 ├── README.md
 ```
 
@@ -288,7 +303,6 @@ ecommerce-business-performance-analysis/
 ### Business Overview
 
 ![Business Overview](images/Business%20Overview%20Page.png)
-
 
 ### Customer Analysis
 
@@ -306,10 +320,10 @@ ecommerce-business-performance-analysis/
 
 ![Delivery](images/Delivery%20Analysis%20Page.png)
 
-### Product Drill-through Page
+### Product Drill-through page
 
-![Product Drillthrough](images/Product%20Drillthrough%20Page.png)
+![Product Drillthrough](images/Product%20Drill%20through%20Page.png)
 
 ### Customer Drill-through Page
 
-![Customer Drillthrough](images/Customer%20Drillthrough%20Page.png)
+![Customer Drillthrough](images/Customer%20Drill%20through%20Page.png)
