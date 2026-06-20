@@ -254,7 +254,7 @@ Key measures included Revenue, Profit, Profit Margin, Average Order Value (AOV),
 
 ## Project Structure
 ``` text
-ecommerce_project/
+ecommerce-business-performance-analysis/
 │
 ├── ecommerce_project_dataset/
 │   ├── customers.csv
