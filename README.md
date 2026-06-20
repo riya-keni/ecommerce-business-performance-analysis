@@ -160,7 +160,7 @@ The SQL analysis was performed in PostgreSQL and covers  business questions acro
 
 ### Dashboard Documentation
 
-A detailed dashboard guide is available in `dashboard-guide.md`.
+A detailed dashboard guide is available in [dashboard-guide.md](dashboard-guide.md).
 
 The guide includes page-by-page explanations, navigation instructions, year filter behavior, drill through functionality, product detail navigation, and interactive dashboard features.
 
